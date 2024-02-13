@@ -1,3 +1,9 @@
+Proficient in programming languages like Python, Java, C++, SQL, and familiar with common algorithms and data structures.
+Skilled in Pytorch deep learning framework, with experience in independently building complete models and training on multiple GPUs.
+Knowledgeable in basic machine learning concepts, such as linear models, tree models, probabilistic graphical models, clustering, and ensemble learning.
+Familiar with popular deep learning models like CNN, GNN, RNN, with a strong focus on computer vision and multimodal perception algorithms.
+Familiarity with Git, basic usage of the Huggingface platform, and basic Linux operations.
+Experience with front-end and back-end development frameworks like Vue, Flask, Django, as well as big data tools like Hadoop/Hive, Spark.
 <div align=center width=80%>
 <img src="https://github.com/MatthewMaxy/MatthewMaxy/blob/main/Homepage.png"/>
 </div>
