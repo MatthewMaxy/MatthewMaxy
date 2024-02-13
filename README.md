@@ -1,4 +1,6 @@
-<div align=center> <img src="https://github.com/MatthewMaxy/MatthewMaxy/blob/main/Homepage.png"></div>
+<div align=center width=80%>
+<img src="https://github.com/MatthewMaxy/MatthewMaxy/blob/main/Homepage.png"/>
+</div>
 
 <!--
 **MatthewMaxy/MatthewMaxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
