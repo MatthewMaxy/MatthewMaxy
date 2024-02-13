@@ -1,4 +1,4 @@
-![Homepage](https://github.com/MatthewMaxy/MatthewMaxy/blob/main/Image.png)
+<div align=center>![Homepage](https://github.com/MatthewMaxy/MatthewMaxy/blob/main/Homepage.png)
 
 <!--
 **MatthewMaxy/MatthewMaxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
