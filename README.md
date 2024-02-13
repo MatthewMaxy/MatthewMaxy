@@ -9,7 +9,7 @@
 <img src="https://github.com/MatthewMaxy/MatthewMaxy/blob/main/Homepage.png"/>
 </div>
 
-### ✏️Languages:
+### ✏️ Languages:
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
@@ -19,7 +19,7 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 
 
-### ♟️Technologies:
+### ♟️ Technologies:
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
