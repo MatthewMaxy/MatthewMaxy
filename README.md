@@ -1,8 +1,9 @@
 ### 🦄 About Me：
 + 🏫 I'm an undergraduate student majoring in Software Engineering at Southeast University
 + 📝 I use github to record my projects and study notes
-+ 💻 Language: Python, Java, C++, SQL
 + 🚀 Interested in Computer Vision, Multimodal learning and Perception
++ 💻 Python, Java, C++, SQL
+
 
 <div align=center width=80%>
 <img src="https://github.com/MatthewMaxy/MatthewMaxy/blob/main/Homepage.png"/>
