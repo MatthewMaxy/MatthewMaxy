@@ -25,6 +25,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
 
 ### 
 
