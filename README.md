@@ -1,7 +1,7 @@
 ### 🦄 About Me：
 + 🏫 I'm an undergraduate student majoring in Software Engineering at Southeast University
 + 📝 I use github to record my projects and study notes
-+ 🚀 Interested in Computer Vision, Multimodal learning and Perception
++ 🚀 Interested in Computer Vision, Multimodal learning
 + 💻 Python, Java, C++, SQL
 
 
