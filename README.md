@@ -4,11 +4,6 @@
 + 🚀 Interested in Computer Vision, Multimodal learning
 + 💻 Python, Java, C++, SQL
 
-
-<div align=center width=80%>
-<img src="https://github.com/MatthewMaxy/MatthewMaxy/blob/main/Homepage.png"/>
-</div>
-
 ### ✏️ Languages:
 
 ![Python](https://img.shields.io/badge/-Python-F4F0C0?&logo=Python)
