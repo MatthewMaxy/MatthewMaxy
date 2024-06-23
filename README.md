@@ -18,7 +18,7 @@
 ![html](https://img.shields.io/badge/-html-81767A?&logo=htmx)
 
 ### ♟️ Technologies:
-![Flask](https://img.shields.io/badge/-Flask-F4F0C0?&logo=Flask&logoColor=000)
+![Flask](https://img.shields.io/badge/-Flask-F4F0C0?&logo=Flask&logoColor=000000)
 ![Linux](https://img.shields.io/badge/-Linux-D5DDB6?&logo=Linux)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-B0C49F?&logo=PyTorch)
 ![Vue](https://img.shields.io/badge/-Vue-8BA4A0?&logo=Vue.js)
