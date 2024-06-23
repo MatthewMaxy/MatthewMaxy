@@ -18,11 +18,10 @@
 ![html](https://img.shields.io/badge/-html-81767A?&logo=htmx)
 
 ### ♟️ Technologies:
-
-![Docker](https://img.shields.io/badge/-Huggingface-F4F0C0?&logo=huggingface)
+![Flask](https://img.shields.io/badge/-Flask-F4F0C0?&logo=Flask)
 ![Linux](https://img.shields.io/badge/-Linux-D5DDB6?&logo=Linux)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-B0C49F?&logo=PyTorch)
 ![Vue](https://img.shields.io/badge/-Vue-8BA4A0?&logo=Vue.js)
-![Flask](https://img.shields.io/badge/-Flask-81767A?&logo=Flask)
+![Hf](https://img.shields.io/badge/-Huggingface-81767A?&logo=huggingface)
 ### 
 <img height="200px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=MatthewMaxy">
