@@ -29,5 +29,4 @@
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ### 
-<div align=center>
 <img height="200px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=MatthewMaxy">
