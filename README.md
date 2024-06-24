@@ -1,6 +1,4 @@
-### Hi there, I'm Matthew 👋
-
-Welcome visting my [Blog](https://matthewmaxy.github.io/) ❤️
+## Hi there, I'm [Matthew](https://matthewmaxy.github.io/) 👋
 
 ### 🦄 About Me：
 + 🏫 I'm an undergraduate student majoring in Software Engineering at Southeast University
