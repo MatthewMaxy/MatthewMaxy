@@ -1,9 +1,9 @@
 ## Hi there, I'm [Matthew](http://matthewmaxy.top) 👋
 
 ### 🦄 About Me：
-+ 🏫 I'm an undergraduate student majoring in Software Engineering at Southeast University
-+ 📝 I use github to record my projects and study notes
-+ 🚀 Interested in Computer Vision, Multimodal learning
++ 🏫 An undergraduate student majoring in Software Engineering at Southeast University
++ 📝 Using github to record projects and study notes
++ 🚀 Interested in Multimodal learning, Computer Vision
 + 💻 Python, Java, C++, SQL
 
 ### ✏️ Languages:
