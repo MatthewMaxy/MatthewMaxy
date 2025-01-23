@@ -1,4 +1,4 @@
-## Hi there, I'm [Matthew](http://matthewmaxy.top) 👋
+## Hi there, I'm [Matthew](http://matthewmaxy.github.io) 👋
 
 ### 🦄 About Me：
 + 🏫 An undergraduate student majoring in Software Engineering at Southeast University
